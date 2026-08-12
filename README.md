@@ -52,6 +52,15 @@ Frontend Developer | BCA Student | Passionate Web Developer
 
 Modern responsive portfolio using HTML CSS JavaScript
 
+## 🌐 Portfolio Preview
+
+## 🌐 Portfolio Preview
+
+<p align="center">
+  <a href="http://127.0.0.1:5500/index.html">
+    <img src="portfolio screenshot.png" alt="Portfolio Website Preview" width="850">
+  </a>
+</p>
 ---
 
 ### 🎮 Tic Tac Toe Game
